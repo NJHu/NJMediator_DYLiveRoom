@@ -1,0 +1,16 @@
+PODS:
+  - NJMediator_DYLiveRoom (0.1.0)
+
+DEPENDENCIES:
+  - NJMediator_DYLiveRoom (from `../`)
+
+EXTERNAL SOURCES:
+  NJMediator_DYLiveRoom:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NJMediator_DYLiveRoom: 216eeb8f91b767d059eef8226f2615d1bc707cc2
+
+PODFILE CHECKSUM: 549708a7d562783da25de6fb591ed99ac9cbfce2
+
+COCOAPODS: 1.5.3
